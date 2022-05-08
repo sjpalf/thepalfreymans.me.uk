@@ -1,0 +1,14 @@
+url: "http://thepalfreymans.me.uk"
+baseurl: ""
+title: "Julian and Priscilla Palfreyman personal website"
+description: "Julian and Priscilla Palfreyman personal website"
+facebook:
+  publisher: 264166033764493
+  admins: 264166033764493
+social:
+  name: Priscilla Palfreyman
+  links:
+    - https://www.facebook.com/ac.quilter
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
